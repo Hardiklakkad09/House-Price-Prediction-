@@ -1,0 +1,5 @@
+{
+    "notebook.output.scrolling": true,
+    "notebook.stickyScroll.enabled": true,
+    "notebook.output.textLineLimit": 100
+}
